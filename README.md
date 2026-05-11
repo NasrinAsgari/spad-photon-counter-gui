@@ -39,3 +39,6 @@ python spad_photon_counter_gui.py
 ## Disclaimer
 This software was developed for laboratory and research use.
 Users should verify hardware configuration and acquisition settings before operation.
+
+<img src="gui_preview.png" width="280">
+
