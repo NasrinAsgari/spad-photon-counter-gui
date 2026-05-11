@@ -33,8 +33,6 @@ python spad_photon_counter_gui.py
 - SPAD detector
 - Counter/timing input
 
-## GUI Preview
-(Add screenshot here later)
 
 ## Disclaimer
 This software was developed for laboratory and research use.
