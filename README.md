@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ## Run
 
 ```bash
-python spad_photon_counter_gui.py
+python ni-daq-photon-counting.py
 ```
 ## Dependencies
 - numpy
