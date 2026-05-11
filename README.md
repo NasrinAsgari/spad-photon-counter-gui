@@ -40,5 +40,9 @@ python spad_photon_counter_gui.py
 This software was developed for laboratory and research use.
 Users should verify hardware configuration and acquisition settings before operation.
 
+## GUI Preview
+
+Example real-time photon counting and autocorrelation display:
+
 <img src="gui_preview.png" width="280">
 
